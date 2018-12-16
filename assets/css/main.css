@@ -86,7 +86,7 @@ table {
  	}
 	 	@media screen and (max-width: 736px) {
 	 		body {
-		    	background-image: url('../../images/bg-small.jpg');;
+	 			background: rgba(20, 20, 20,1);
 	 		}
 	 	}
 
