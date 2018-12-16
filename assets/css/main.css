@@ -433,8 +433,8 @@ table {
 
 		@media only screen and (max-width: 480px) {
 			.video {
-				width: 350px;
-				height: 202.5px;
+				width: 250px;
+				height: 140.625px;
 			}
 		}
 
