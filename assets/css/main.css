@@ -79,7 +79,7 @@ table {
  		width: 100%;	
  		height: 100rem;
 	 	background: rgba(20, 20, 20,1);
-		background-image: url('../../images/bg.jpg');
+		background-image: url('../../images/bg-full.jpg');
 	    background-size: cover;
 	    background-position: center -230px;
 	    background-attachment: fixed;
